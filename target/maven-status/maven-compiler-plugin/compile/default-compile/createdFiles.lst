@@ -1,0 +1,5 @@
+item\repository\ItemRepository.class
+item\controller\ItemController.class
+item\dao\ItemDAO.class
+item\ItemApplication.class
+item\model\Item.class
